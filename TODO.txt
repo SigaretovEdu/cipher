@@ -1,0 +1,15 @@
+    substitution encrypt
+    substitution decrypt
+
+galua gen alphabet
+galua +
+galua *
+galua a^-1
+
+affine encrypt
+affine decrypt
+
+affine rec encrypt
+affine rec decrypt
+
+frequency analysis

@@ -1,0 +1,3 @@
+/home/sigaretov/src/cipher/build/CMakeFiles/cripto.dir
+/home/sigaretov/src/cipher/build/CMakeFiles/edit_cache.dir
+/home/sigaretov/src/cipher/build/CMakeFiles/rebuild_cache.dir
